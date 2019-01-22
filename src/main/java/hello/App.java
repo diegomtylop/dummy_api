@@ -12,7 +12,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "[Dummy-api] Initializing Spring boot application!" );
         SpringApplication.run( App.class, args );
     }
 }
